@@ -21,3 +21,5 @@
   w                 *  Backward one window (and set window to _N).
   ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
   ESC-b             *  Backward one window, but don't stop at beginning-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to _N).
+  u  ^U             *  Backward one half-window (and set half-window to _N).
